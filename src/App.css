@@ -1,0 +1,26 @@
+#root {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 30px 20px;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+    color: #222;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+.app {
+    width: 100%;
+}
+
+.error-message {
+    color: #e53935;
+    text-align: center;
+}
